@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PMGD_MarketPlaceApp.Client
+build_property.ProjectDir = D:\Informatika\PROYEK\PMGD_MarketPlace\PMGD_MarketPlaceApp.Client\
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Account/AccountPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Account.AccountPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Account\AccountPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Account\AccountPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Account/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Account.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Account\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Account\LoginPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Account/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Account.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Account\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Account\ProfilePage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Forms/ProductPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Forms.ProductPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Forms\ProductPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Forms\ProductPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Forms/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Forms.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Forms\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Forms\RegisterPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Forms/UploadPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Forms.UploadPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Forms\UploadPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Forms\UploadPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Forms/ValidatePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Forms.ValidatePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Forms\ValidatePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Forms\ValidatePage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Home/CatalogPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Home.CatalogPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Home\CatalogPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Home\CatalogPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Home/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Home.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Home\Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Home\Dashboard.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Home/LogPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Home.LogPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Home\LogPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Home\LogPage.xaml
+
+[D:/Informatika/PROYEK/PMGD_MarketPlace/PMGD_MarketPlaceApp.Client/Views/Home/UniversityPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PMGD_MarketPlaceApp.Client.Views.Home.UniversityPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Home\UniversityPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Home\UniversityPage.xaml

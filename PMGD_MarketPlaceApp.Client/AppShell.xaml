@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="PMGD_MarketPlaceApp.Client.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:home="clr-namespace:PMGD_MarketPlaceApp.Client.Views.Home"
+    xmlns:account="clr-namespace:PMGD_MarketPlaceApp.Client.Views.Account"
+    Shell.FlyoutBehavior="Flyout">
+
+    <FlyoutItem Title="Dashboard" FlyoutDisplayOptions="AsMultipleItems" Route="Dashboard">
+        <Tab Title="Home" Route="HomeTab">
+            <ShellContent ContentTemplate="{DataTemplate home:Dashboard }" Route="Dashboard"/>
+        </Tab>
+        <Tab Title="List" Route="ListTab">
+            <ShellContent ContentTemplate="{DataTemplate home:CatalogPage }" Route="CatalogPage"/>
+        </Tab>
+        <Tab Title="Log" Route="LogTab">
+            <ShellContent ContentTemplate="{DataTemplate home:LogPage }" Route="LogPage"/>
+        </Tab>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Account" FlyoutDisplayOptions="AsSingleItem" Route="AccountPage">
+        <ShellContent ContentTemplate="{DataTemplate account:AccountPage }" Route="AccountPage"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="University" FlyoutDisplayOptions="AsSingleItem" Route="UniversityPage">
+        <ShellContent ContentTemplate="{DataTemplate home:UniversityPage}" Route="UniversityPage"/>
+    </FlyoutItem>
+</Shell>

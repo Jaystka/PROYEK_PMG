@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PMGD_MarketPlaceApp.Client.Views.Forms.RegisterPage"
+             Title="REGISTER">
+    <VerticalStackLayout>
+        <ScrollView>
+            <StackLayout Spacing="20" Padding="10">
+                <Label Text="Nama Karya" FontSize="20"/>
+                <Entry Text="{Binding Model.Name, Mode=TwoWay}"/>
+                <Label Text="Kategori" FontSize="20"/>
+                <Entry Text="{Binding Model.Uid, Mode=TwoWay}"/>
+                <Label Text="Deskripsi" FontSize="20"/>
+                <ScrollView Orientation="Vertical">
+                    <Editor Text="{Binding Model.Description, Mode=TwoWay}"/>
+                </ScrollView>
+                <Grid ColumnDefinitions="Auto, Auto, Auto" Margin="10,20,10,10">
+                    <Button Grid.Column="1" Grid.Row="0" x:Name="BtnDelete" Text="DEL" Command="{Binding DeleteCommand}"/>
+                    <Button Grid.Column="2" Grid.Row="0" x:Name="BtnUpdate" IsVisible="true" Text="UPDT" Command="{Binding UpdateCommand}"/>
+                    <Button Grid.Column="2" Grid.Row="0" x:Name="BtnSave" IsVisible="false" Text="SAVE" Command="{Binding InsertCommand}"/>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>

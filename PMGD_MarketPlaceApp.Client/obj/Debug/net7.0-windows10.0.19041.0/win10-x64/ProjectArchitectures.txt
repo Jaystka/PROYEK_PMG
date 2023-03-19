@@ -1,0 +1,1 @@
+C:\Users\BattleCry\source\repos\PMGD_MarketPlace\PMGD_MarketPlaceApp.Client\PMGD_MarketPlaceApp.Client.csproj;x64
